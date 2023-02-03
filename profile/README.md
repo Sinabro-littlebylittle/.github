@@ -9,9 +9,9 @@
 
 | Name | Role | Task |
 | :---: | :---: | :---: |
-| 임수연 | Team leader |-                                |
-| 김윤희 | Team member |-                                |
-| 성열암 | Team member |-                                |
+| 임수연 | Team leader | A Machine Learning & AI Model utilization, Backend |
+| 김윤희 | Team member | Application UI design |
+| 성열암 | Team member | Application UI design, Backend |
 
 <br/>
 
