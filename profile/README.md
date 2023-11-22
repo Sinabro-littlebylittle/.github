@@ -15,16 +15,7 @@
 
 <br/>
 
-### **Dataset**
-
-- 
-    
-<br/>
-
-### Model Architecture
-- 
-
-<br/>
-
 ### Link
-- 
+- https://sinabro-developersung13.koyeb.app/
+
+![02-08_졸업작품전시회-포스터](https://github.com/Sinabro-littlebylittle/.github/assets/56868605/af5ca2fd-1c24-451b-b71f-fda0642358e8)
